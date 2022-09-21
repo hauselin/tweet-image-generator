@@ -5,7 +5,7 @@ A tool to generate tweets images
 ```
 git clone https://github.com/fedejordan/tweet-image-generator.git
 cd tweet-image-generator
-python3 -m venv env
+python3 -m venv venv
 source env/bin/activate
 pip install -r requirements.txt
 ```
