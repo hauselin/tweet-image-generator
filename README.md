@@ -7,7 +7,7 @@ git clone https://github.com/fedejordan/tweet-image-generator.git
 cd tweet-image-generator
 python3 -m venv env
 source env/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage
